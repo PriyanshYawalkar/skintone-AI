@@ -29,8 +29,6 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Folder Structure
 
-'''bash
-
 my-app/
 │
 ├── public/                  # Static files (images, icons, fonts)
@@ -66,5 +64,3 @@ my-app/
 ├── tsconfig.json            # TypeScript configuration
 ├── package.json             # Project dependencies and scripts
 ├── README.md                # Project documentation
-
-'''
